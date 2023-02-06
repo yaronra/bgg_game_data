@@ -1,0 +1,16 @@
+{
+    "yearpublished": "Recent games",
+    "minplayers": "High minimum player count (according to publisher)",
+    "maxplayers": "High maximum player count (according to publisher)",
+    "playingtime": "Long games (by average duration)",
+    "minplaytime": "Long games (by minimum duration)",
+    "maxplaytime": "Long games (by maximum duration)",
+    "minage": "High minimum age",
+    "usersrated": "Games with many ratings",
+    "average": "Highly rated games",
+    "stddev": "Divisive games (high variation in rating)",
+    "averageweight": "Weighty games (BGG user poll)",
+    "min_suggested_n_players": "High minimum player count (BGG user poll)",
+    "max_suggested_n_players": "High maximum player count (BGG user poll)",
+    "mean_suggested_age": "High suggested age (BGG user poll)"
+}
